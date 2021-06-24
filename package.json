@@ -1,0 +1,24 @@
+{
+  "name": "actorztest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Captainjack-kor/actorzTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Captainjack-kor/actorzTest/issues"
+  },
+  "homepage": "https://github.com/Captainjack-kor/actorzTest#readme",
+  "dependencies": {
+    "redux": "^4.1.0",
+    "redux-logger": "^3.0.6"
+  }
+}
